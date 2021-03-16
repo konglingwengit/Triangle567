@@ -9,7 +9,7 @@ Documentation: HW02a
 
 import unittest
 
-from .Triangle import classifyTriangle
+from Triangle import classifyTriangle
 
 
 # This code implements the unit test functionality
