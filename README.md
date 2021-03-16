@@ -1,1 +1,2 @@
-[![build status of master](https://travis-ci.org/konglingwengit/Triangle567.svg?branch=master)](https://travis-ci.com/github/konglingwengit/Triangle567)
+# SSW-567-Triangle
+[![build status of master](https://travis-ci.com/konglingwengit/Triangle567.svg?branch=main)](https://travis-ci.com/konglingwengit/Triangle567)
